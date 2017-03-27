@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.michaelsmac.assignment3_mromao_se3314b.MainActivity"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        app:srcCompat="@android:color/background_light"
+        android:layout_alignParentTop="true"
+        android:id="@+id/myDisplay"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:color/background_dark"
+        android:layout_height="200dp" />
+
+    <Button
+        android:text="SETUP"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/setupBtn"
+        android:layout_below="@+id/myDisplay"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="12sp"
+        android:fontFamily="sans-serif"
+        android:textStyle="normal|bold"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:background="@android:color/holo_red_dark" />
+
+    <Button
+        android:text="TEARDOWN"
+        android:layout_height="80dp"
+        android:id="@+id/teardownBtn"
+        android:textSize="12sp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:layout_width="80dp"
+        android:background="@android:color/holo_red_light"
+        android:layout_below="@+id/myDisplay"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="PLAY"
+        android:layout_height="80dp"
+        android:id="@+id/playBtn"
+        android:layout_width="80dp"
+        android:textSize="12sp"
+        android:background="@android:color/holo_green_dark"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:layout_below="@+id/myDisplay"
+        android:layout_toLeftOf="@+id/teardownBtn"
+        android:layout_toStartOf="@+id/teardownBtn"
+        android:layout_marginRight="0dp"
+        android:layout_marginEnd="17dp" />
+
+
+    <Button
+        android:text="PAUSE"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/pauseBtn"
+        android:textSize="12sp"
+        android:background="@android:color/holo_blue_dark"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:layout_below="@+id/myDisplay"
+        android:layout_toRightOf="@+id/setupBtn"
+        android:layout_toEndOf="@+id/setupBtn"
+        android:layout_marginLeft="0dp"
+        android:layout_marginStart="17dp" />
+
+    <Button
+        android:text="EXIT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/connectBtn"
+        android:layout_alignStart="@+id/connectBtn"
+        android:layout_marginBottom="15dp"
+        android:id="@+id/exitBtn"
+        android:layout_alignParentRight="true"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:id="@+id/videoSelection"
+        android:layout_below="@+id/setupBtn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="120dp"
+        android:inputType="textPersonName"
+        android:text="SERVER PORT"
+        android:ems="10"
+        android:id="@+id/portNumber"
+        android:layout_below="@+id/videoSelection"
+        android:layout_alignRight="@+id/videoPauseBtn"
+        android:layout_alignEnd="@+id/videoPauseBtn"
+        android:layout_height="40dp"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+    <EditText
+        android:layout_width="120dp"
+        android:inputType="textPersonName"
+        android:text="SERVER IP"
+        android:ems="10"
+        android:id="@+id/serverIP"
+        android:textSize="12sp"
+        android:textAlignment="center"
+        android:layout_alignLeft="@+id/videoPlayBtn"
+        android:layout_alignStart="@+id/videoPlayBtn"
+        android:layout_below="@+id/videoSelection"
+        android:layout_height="40dp" />
+
+    <ImageButton
+        app:srcCompat="@drawable/play"
+        android:layout_marginTop="69dp"
+        android:id="@+id/videoPlayBtn"
+        android:cropToPadding="false"
+        android:adjustViewBounds="false"
+        android:scaleType="fitEnd"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/playBtn"
+        android:layout_alignStart="@+id/playBtn" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/teardown"
+        android:id="@+id/videoTeardownBtn"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:layout_alignTop="@+id/videoPlayBtn"
+        android:layout_alignRight="@+id/serverIP"
+        android:layout_alignEnd="@+id/serverIP" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/setup"
+        android:id="@+id/videoSetupBtn"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/videoPauseBtn"
+        android:layout_alignLeft="@+id/portNumber"
+        android:layout_alignStart="@+id/portNumber" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/pause"
+        android:id="@+id/videoPauseBtn"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/videoPlayBtn"
+        android:layout_alignRight="@+id/pauseBtn"
+        android:layout_alignEnd="@+id/pauseBtn" />
+
+    <Button
+        android:text="CONNECT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/connectBtn"
+        android:elevation="0dp"
+        android:layout_above="@+id/exitBtn"
+        android:layout_toRightOf="@+id/serverResponse"
+        android:layout_toEndOf="@+id/serverResponse" />
+
+</RelativeLayout>

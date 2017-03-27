@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/fe59c52bd9e3517facea7768adda5e153bfb50f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b19bcd52df44c3b7370ca52430984cc2bc3ea77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/553ca3e1cff10f756b89b7af891f8cb8d191e43e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b631348ed892189460f0cc5606339c978a356f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/fe59c52bd9e3517facea7768adda5e153bfb50f1/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_196e8a49d4de5268c8c01bd518a9869d029e5f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/51d276507b30e47953a393e2ae60bbe3def73325/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4e944faeca10700a9e7aaf3d2803a60509fcd12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/90099cce6d1ef81d9ea8c9966c6a03ba9a42eb95/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c8d2afaf5d3ef67bc25b93d28b5ee39d68e59e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_376d19dc91c9ebd0118af6017a0d8ca655f473e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/1c0e77d939fc0507e87e54b95e93cfad45eccae2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abb5398a53536225bf6027c8ecba6b90ee32fa27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/7a5c9f44556ac761462cd71eeaf093bedd914445/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9155ccd6c62e6c66a3ee0647551ea421ba07cdc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/9607b0a521fd0e41fc7e42fe669e7ba563734c99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_059965df1a00d5424888776c35ef9db207f714e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/22c3e347f7f947379aa440ea41b7462de8968da7/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_39653b25008b7a88ba7239cdcad67398a54f6bd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/7a5c9f44556ac761462cd71eeaf093bedd914445/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d708c7957f279fdb8d901efa9692e5716252442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35953b9a0c9784c76bb830dfaf899b0d8f231b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_376d19dc91c9ebd0118af6017a0d8ca655f473e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/553ca3e1cff10f756b89b7af891f8cb8d191e43e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b887caf1be8dd8b9d7098bdd9ae0c9ac943e18ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/a35bb3a2522b6a4c1843c985abd4fd3bf9fdf9ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1bbb4126dc38cc79bda70ebe1bacd88de429dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/22c3e347f7f947379aa440ea41b7462de8968da7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17c2fa826fa35964d18120880eb575745c516442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/.android/build-cache/90099cce6d1ef81d9ea8c9966c6a03ba9a42eb95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5299f530689a1664f9977ea66f6cb237ab32d3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb47d937db2cbfbd14d1b3630417cee8f660e985">
+        <dex dex="/Users/MichaelsMac/Desktop/se3313-lab4-master/Assignment3_mromao_SE3314B/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ae70ba1d7f290b2859e090aa9f34b2f5281bf89/classes.dex" />
+    </item>
+
+</items>
